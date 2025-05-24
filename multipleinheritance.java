@@ -22,7 +22,7 @@ class C implements A, B {
     }
 }
 
-public class Main {
+public class multipleinheritance {
     public static void main(String[] args) {
         C c = new C();
         c.walk();

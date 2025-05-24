@@ -1,4 +1,3 @@
-
 class Vehicle {
     public void move() {
         System.out.println("Vehicle moves");
@@ -17,7 +16,7 @@ class Bike extends Vehicle {
     }
 }
 
-public class Main {
+public class hierarchicalinheritance {
     public static void main(String[] args) {
         Car c = new Car();
         c.wheel();

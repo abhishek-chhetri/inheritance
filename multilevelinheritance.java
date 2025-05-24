@@ -1,6 +1,4 @@
- 
-
-class Animal {
+ class Animal {
     public void eat() {
         System.out.println("This animal eats food.");
     }
@@ -16,7 +14,7 @@ class Puppy extends Dog {
         System.out.println("The puppy walks.");
     }
 }
-public class Main {
+public class multilevelinheritance {
     public static void main(String[] args) {
         Puppy p = new Puppy();
 
